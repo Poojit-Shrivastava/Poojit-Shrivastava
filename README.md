@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Poojit-Shrivastava
 - 👀 I’m interested in programming, data science, 
-- 🌱 I’m currently learning python(dsa), C++
-- 💞️ I’m looking to collaborate on HTML, SQL, DBMS
+- 🌱 I’m currently learning python(dsa),JAVA
+- 💞️ I’m looking to collaborate on HTML,CSS,MYSQL,PYTHON 
 - 📫 How to reach me ... poojitshrivastava@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
