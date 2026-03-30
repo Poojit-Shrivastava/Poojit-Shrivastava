@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Poojit-Shrivastava
 - 👀 I’m interested in programming, data science,AI ML 
-- 🌱 I’m currently learning Dsa under C++
+- 🌱 I’m currently learning  C++
 - 💞️ I’m looking to collaborate on HTML,CSS,MYSQL,PYTHON,C,C++
 - 📫 How to reach me ... poojitshrivastava@gmail.com
 - 😄 Pronouns: he/him
